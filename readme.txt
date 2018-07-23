@@ -6,4 +6,4 @@ aiadadad
 ad
 GIT
 Creating a new branch quick AND simple 是.
---no-ff模式
+--no-ff is a 模式
